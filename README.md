@@ -9,6 +9,12 @@ These are 'proof of concept' apps to demonstrate various technique and integrati
 - [ChatFMP](ChatFMP/): Chat Interface & Script for OpenAI Assistant
 - [SortableFMP](SortableFMP/): Drag & Drop Sortable List using SortableJS
 - **LOTS MORE COMING SOON!** ⭐️ Star repo for updates! ☝️
+
+## Other Content
+Check out my other FileMaker content below:
+- [FileMaker Subreddit](https://www.reddit.com/r/FileMaker/search/?q=author%3AHomeBrewDude&restrict_sr=1)
+- [GreenFlux Blog](https://blog.greenflux.us/)
+- [Appsmith Community Portal](https://community.appsmith.com/tag/filemaker)
 ### Contributing
 Although this repo is meant to be part of my personal developer portfolio, others can still contribute by:
 - suggesting new API integrations or web viewer challenges
