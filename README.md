@@ -8,6 +8,7 @@ These are 'proof of concept' apps to demonstrate various technique and integrati
 - [Radar Address API](Radar%20Address%20API/): Address Validation & Auto-Complete w/ Radar.com API
 - [ChatFMP](ChatFMP/): Chat Interface & Script for OpenAI Assistant
 - [SortableFMP](SortableFMP/): Drag & Drop Sortable List using SortableJS
+- [CSS Grid](CSS%20Grid): Mobile Responsive Grid Layout with Click Events
 - **LOTS MORE COMING SOON!** ⭐️ Star repo for updates! ☝️
 
 ## Other Content
