@@ -5,3 +5,5 @@ Choropleth maps are similar to heat maps, but with regions defined by geometry, 
 Updating the Density value for a State will instantly reflect on the map. To connect your data, just relate it to the State table by the State Name and change the Density field to be a summary calc based on your other table. 
 
 
+See the video demo and walkthrough here: 
+[FileMaker Choropleth Map Using LeafletJS In a Web Viewer](https://www.youtube.com/watch?v=Op6UZmh-20g)
