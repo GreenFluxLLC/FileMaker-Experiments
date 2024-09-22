@@ -16,6 +16,7 @@ These are 'proof of concept' apps to demonstrate various technique and integrati
 
 ## Other Content
 Check out my other FileMaker content below:
+- [LOW CODE DEVS - Daily.dev](https://app.daily.dev/squads/lowcodedevs)
 - [FileMaker Subreddit](https://www.reddit.com/r/FileMaker/search/?q=author%3AHomeBrewDude&restrict_sr=1)
 - [GreenFlux Blog](https://blog.greenflux.us/)
 - [Appsmith Community Portal](https://community.appsmith.com/tag/filemaker)
