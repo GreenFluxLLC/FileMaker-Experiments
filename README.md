@@ -9,6 +9,9 @@ These are 'proof of concept' apps to demonstrate various technique and integrati
 - [ChatFMP](ChatFMP/): Chat Interface & Script for OpenAI Assistant
 - [SortableFMP](SortableFMP/): Drag & Drop Sortable List using SortableJS
 - [CSS Grid](CSS%20Grid): Mobile Responsive Grid Layout with Click Events
+- [Radar Address API](Radar%20Address%20API): Address validation and auto-complete using the Radar.com API
+- [Choropleth Map](Choropleth%20Map): Heatmap of US States using LeafletJS
+- [CodeMirror](CodeMirror): Code Editor for building web viewers, using CodeMirrorJS
 - **LOTS MORE COMING SOON!** ⭐️ Star repo for updates! ☝️
 
 ## Other Content
