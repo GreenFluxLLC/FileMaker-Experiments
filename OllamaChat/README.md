@@ -5,4 +5,5 @@ Requires Ollama running locally
 
 This app connects to a local Llama3.2-vision model for image-to-text generation from a container field. 
 
-Tutorial: 
+Tutorial: [FileMaker Image-to-Text with Llama3.2-vision
+](https://blog.greenflux.us/filemaker-image-to-text-with-llama32-vision?showSharer=true)
