@@ -13,6 +13,7 @@ These are 'proof of concept' apps to demonstrate various technique and integrati
 - [Choropleth Map](Choropleth%20Map): Heatmap of US States using LeafletJS
 - [CodeMirror](CodeMirror): Code Editor for building web viewers, using CodeMirrorJS
 - [OllamaChat](OllamaChat): Image-to-Text GenAI Chat using Llama3.2-vision
+- [Web Viewer Copilot](Web Viewer Copilot): Generate Custom UI Components With Plain Text Prompts
 - **LOTS MORE COMING SOON!** ⭐️ Star repo for updates! ☝️
 
 ## Other Content
