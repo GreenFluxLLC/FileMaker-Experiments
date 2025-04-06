@@ -14,6 +14,7 @@ These are 'proof of concept' apps to demonstrate various technique and integrati
 - [CodeMirror](CodeMirror): Code Editor for building web viewers, using CodeMirrorJS
 - [OllamaChat](OllamaChat): Image-to-Text GenAI Chat using Llama3.2-vision
 - [Web Viewer Copilot](Web%20Viewer%20Copilot): Generate Custom UI Components With Plain Text Prompts
+- [NoteGraph](NoteGraph): Markdown Editor and Knowledge Graph Notes App
 - **LOTS MORE COMING SOON!** ⭐️ Star repo for updates! ☝️
 
 ## Other Content
